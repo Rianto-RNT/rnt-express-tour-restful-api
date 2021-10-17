@@ -4,7 +4,7 @@
   "description": "playground node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/Rianto-RNT/RestfullAPI/issues"
   },
-  "homepage": "https://github.com/Rianto-RNT/RestfullAPI#readme"
+  "homepage": "https://github.com/Rianto-RNT/RestfullAPI#readme",
+  "dependencies": {
+    "slugify": "^1.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
 }

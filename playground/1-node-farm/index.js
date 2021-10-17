@@ -4,7 +4,7 @@ const url = require("url");
 const replaceTemplate = require('./modules/replaceTemplate')
 
 
-//======================================
+//=====================================
 // FILE
 
 // Blocking, Synchronous way
