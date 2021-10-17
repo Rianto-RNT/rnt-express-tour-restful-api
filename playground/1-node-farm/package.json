@@ -1,0 +1,32 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "playground node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rianto-RNT/RestfullAPI.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "node.js",
+    "express",
+    "mongodb"
+  ],
+  "author": "rianto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rianto-RNT/RestfullAPI/issues"
+  },
+  "homepage": "https://github.com/Rianto-RNT/RestfullAPI#readme",
+  "dependencies": {
+    "slugify": "^1.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
