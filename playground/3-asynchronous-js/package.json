@@ -1,0 +1,30 @@
+{
+  "name": "restfullapi",
+  "version": "1.0.0",
+  "description": "asynchronous",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rianto-RNT/RestfullAPI.git"
+  },
+  "keywords": [
+    "asynchronous",
+    "express",
+    "nodejs"
+  ],
+  "author": "rianto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rianto-RNT/RestfullAPI/issues"
+  },
+  "homepage": "https://github.com/Rianto-RNT/RestfullAPI#readme",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
