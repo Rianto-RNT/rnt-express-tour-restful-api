@@ -1,5 +1,8 @@
 # Deployment to heroku
-https://mighty-mountain-28594.herokuapp.com/
+https://rian-natours.herokuapp.com/
+
+# API Documentation
+> https://documenter.getpostman.com/view/16994323/UVR7LURY
 
 ## MongoDB - LOCAL SERVER
 
