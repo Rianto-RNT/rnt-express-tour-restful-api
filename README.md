@@ -1,3 +1,6 @@
+# Deployment
+https://mighty-mountain-28594.herokuapp.com/
+
 ## MongoDB - LOCAL SERVER
 
 # to MongoDB local shell:
@@ -45,3 +48,7 @@
 > npm start
 # Run Debugger
 > npm run debug
+
+# Run Builder
+> npm run build:js
+> npm run watch:js
