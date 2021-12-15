@@ -1,4 +1,4 @@
-# Deployment
+# Deployment to heroku
 https://mighty-mountain-28594.herokuapp.com/
 
 ## MongoDB - LOCAL SERVER
